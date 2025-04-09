@@ -3,3 +3,10 @@
 /@types/firefox/**/*
 /node_modules/
 /nora/node_modules/
+
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# Patch files
+*.patch
